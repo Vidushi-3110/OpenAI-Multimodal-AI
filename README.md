@@ -181,14 +181,3 @@ This project is intended for educational and learning purposes.
 
 ---
 
-## 👩‍💻 Author
-
-**Vidushi Goel**
-
-B.Tech CSE (AI & ML)
-
-Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
-
-GitHub: https://github.com/Vidushi-3110
-
-LinkedIn: https://www.linkedin.com/in/vidushi-goel-45a20933a
